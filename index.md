@@ -41,7 +41,34 @@ Loose coupling and separation of controls allow for more targeted development an
 # <span style="color:#00c7b7"> Technologies we use
 
 ### <span style="color:#3e70b1"> Auth0
-As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
+
+#### Auth0 Overview
+
+Auth0 provides authentication and authorization as a service.
+
+We are here to give developers and companies the building blocks they need to secure their applications without having to become security experts.
+
+You can connect any application (written in any language or on any stack) to Auth0 and define the identity providers you want to use (how you want your users to log in).
+
+Based on your app's technology, choose one of our SDKs (or call our API), and hook it up to your app. Now each time a user tries to authenticate, Auth0 will verify their identity and send the required information back to your app.
+
+#### Why use Auth0?
+
+Take a look at just a few of Auth0's use cases:
+
+  - You built an awesome app and you want to add user authentication and authorization. Your users should be able to log in either with username/password or with their social accounts (such as Facebook or Twitter). You want to retrieve the user's profile after the login so you can customize the UI and apply your authorization policies.
+  - You built an API and you want to secure it with OAuth 2.0.
+  - You have more than one app, and you want to implement Single Sign-on (SSO).
+  - You built a JavaScript front-end app and a mobile app, and you want them both to securely access your API.
+  - You have a web app which needs to authenticate users using Security Assertion Markup Language (SAML).
+  - You believe passwords are broken and you want your users to log in with one-time codes delivered by email or SMS.
+  - If one of your user's email addresses is compromised in some site's public data breach, you want to be notified, and you want to notify the users and/or block them from logging in to your app until they reset their password.
+  - You want to act proactively to block suspicious IP addresses if they make consecutive failed login attempts, in order to avoid DDoS attacks.
+  - You are part of a large organization who wants to federate their existing enterprise directory service to allow employees to log in to the various internal and third-party applications using their existing enterprise credentials.
+  - You don't want (or you don't know how) to implement your own user management solution. Password resets, creating, provisioning, blocking, and deleting users, and the UI to manage all these. You just want to focus on your app.
+  - You want to enforce multi-factor authentication (MFA) when your users want to access sensitive data.
+  - You are looking for an identity solution that will help you stay on top of the constantly growing compliance requirements of SOC2, GDPR, PCI DSS, HIPAA, and others.
+  - You want to use analytics to track users on your site or application. You plan on using this data to create funnels, measure user retention, and improve your sign-up flow.
   
 ### <span style="color:#3e70b1"> Azure Functions
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.

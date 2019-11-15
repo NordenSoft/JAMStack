@@ -1,12 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to JAMStack Expert Pages
 
 You can use the [editor on GitHub](https://github.com/NordenSoft/JAMStack/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# What is the JAMStack?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You may have already seen or worked on a JAMstack site! They do not have to include all attributes of JavaScript, APIs, and Markup. They might be built using by hand, or with Jekyll, Hugo, Nuxt, Next, Gatsby, or another static site generator...
+
+The thing that they all have in common is that they don’t depend on a web server.
+
+## JavaScript
+Any dynamic programming during the request/response cycle is handled by JavaScript, running entirely on the client. This could be any frontend framework, library, or even vanilla JavaScript.
+
+## APIs
+All server-side processes or database actions are abstracted into reusable APIs, accessed over HTTPS with JavaScript. These can be custom-built or leverage third-party services.
+
+## Markup
+Templated markup should be prebuilt at deploy time, usually using a site generator for content sites, or a build tool for web apps.
 
 ```markdown
 Syntax highlighted code block

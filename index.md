@@ -219,6 +219,7 @@ GitHub is an American company that provides hosting for software development ver
 GitHub offers plans for free, professional, and enterprise accounts. Free GitHub accounts are commonly used to host open source projects. As of January 2019, GitHub offers unlimited private repositories to all plans, including free accounts. As of May 2019, GitHub reports having over 37 million users and more than 100 million repositories (including at least 28 million public repositories), making it the largest host of source code in the world.
   
 ### <span style="color:#3e70b1"> GitHub API
+Github API Dokument
   
 ### <span style="color:#3e70b1"> Github Pages
 GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website. You can see examples of GitHub Pages sites in the GitHub Pages examples collection.
@@ -228,6 +229,7 @@ You can host your site on GitHub's github.io domain or your own custom domain. F
 To get started, see "Creating a GitHub Pages site."
   
 ### <span style="color:#3e70b1"> Google Analytics
+Google Analytics Document
   
 ### <span style="color:#3e70b1"> Jekyll
 Jekyll is a simple, extendable, static site generator. You give it text written in your favorite markup language and it churns through layouts to create a static website. Throughout that process you can tweak how you want the site URLs to look, what data gets displayed in the layout, and more.
@@ -238,6 +240,21 @@ Netlify is an all-in-one platform for automating modern web projects. Replace yo
 To get started with Netlify, learn how to create deploys. Options for creating deploys range from connecting a Git repository for continuous deployment to publishing a site folder with drag and drop. Use the Deploy to Netlify button on our JAMstack templates to create a Git repository linked to a Netlify site that you can experiment with.
 
 ### <span style="color:#fbc993"> Netlify CMS 
+Netlify CMS is an open source content management system for your Git workflow that enables you to provide editors with a friendly UI and intuitive workflows. You can use it with any static site generator to create faster, more flexible web projects. Content is stored in your Git repository alongside your code for easier versioning, multi-channel publishing, and the option to handle content updates directly in Git.
+
+At its core, Netlify CMS is an open-source React app that acts as a wrapper for the Git workflow, using the GitHub, GitLab, or Bitbucket API. This provides many advantages, including:
+
+- Fast, web-based UI: With rich-text editing, real-time preview, and drag-and-drop media uploads.
+- Platform agnostic: Works with most static site generators.
+- Easy installation: Add two files to your site and hook up the backend by including those files in your build process or linking to our Content Delivery Network (CDN).
+- Modern authentication: Using GitHub, GitLab, or Bitbucket and JSON web tokens.
+- Flexible content types: Specify an unlimited number of content types with custom fields.
+- Fully extensible: Create custom-styled previews, UI widgets, and editor plugins.
+
+#### Netlify CMS vs. Netlify
+Netlify.com is a platform you can use to automatically build, deploy, serve, and manage your frontend sites and web apps. It also provides a variety of other features like form processing, serverless functions, and split testing. Not all Netlify sites use Netlify CMS, and not all sites using Netlify CMS are on Netlify.
+
+The folks at Netlify created Netlify CMS to fill a gap in the static site generation pipeline. There were some great proprietary headless CMS options, but no real contenders that were open source and extensible—that could turn into a community-built ecosystem like WordPress or Drupal. For that reason, Netlify CMS is made to be community-driven, and has never been locked to the Netlify platform (despite the name).
 
 ### <span style="color:#3e70b1"> React
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.

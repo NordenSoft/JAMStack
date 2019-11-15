@@ -40,73 +40,73 @@ Loose coupling and separation of controls allow for more targeted development an
 
 # <span style="color:#00c7b7"> Technologies we use
 
-### <span style="color:#fbc993"> Auth0
+### <span style="color:#3e70b1"> Auth0
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
   
-### <span style="color:#fbc993"> Azure Functions
+### <span style="color:#3e70b1"> Azure Functions
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
 
-### <span style="color:#fbc993"> Bootstrap
+### <span style="color:#3e70b1"> Bootstrap
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
   
-### <span style="color:#fbc993"> Contentful
+### <span style="color:#3e70b1"> Contentful
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
   
-### <span style="color:#fbc993"> Disqus
+### <span style="color:#3e70b1"> Disqus
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
   
-### <span style="color:#fbc993"> Firebase
+### <span style="color:#3e70b1"> Firebase
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
   
-### <span style="color:#fbc993"> Gatsby
+### <span style="color:#3e70b1"> Gatsby
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
   
-### <span style="color:#fbc993"> Git
+### <span style="color:#3e70b1"> Git
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
   
-### <span style="color:#fbc993"> Github
+### <span style="color:#3e70b1"> Github
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
   
-### <span style="color:#fbc993"> GitHub API
+### <span style="color:#3e70b1"> GitHub API
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
   
-### <span style="color:#fbc993"> Github Pages
+### <span style="color:#3e70b1"> Github Pages
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
   
-### <span style="color:#fbc993"> Google Analytics
+### <span style="color:#3e70b1"> Google Analytics
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
   
-### <span style="color:#fbc993"> Jekyll
+### <span style="color:#3e70b1"> Jekyll
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
   
-### <span style="color:#fbc993"> Netlify
+### <span style="color:#3e70b1"> Netlify
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.### <span style="color:#fbc993"> Netlify CMS
 
-### <span style="color:#fbc993"> React
+### <span style="color:#3e70b1"> React
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
   
-### <span style="color:#fbc993"> React-Static
+### <span style="color:#3e70b1"> React-Static
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
   
-### <span style="color:#fbc993"> Sanity.io
+### <span style="color:#3e70b1"> Sanity.io
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
   
-### <span style="color:#fbc993"> Sass
+### <span style="color:#3e70b1"> Sass
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
   
-### <span style="color:#fbc993"> Serverless DB
+### <span style="color:#3e70b1"> Serverless DB
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
   
-### <span style="color:#fbc993"> Service Workers
+### <span style="color:#3e70b1"> Service Workers
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
   
-### <span style="color:#fbc993"> Vanilla JS & CSS
+### <span style="color:#3e70b1"> Vanilla JS & CSS
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
   
-### <span style="color:#fbc993"> Web App Manifest
+### <span style="color:#3e70b1"> Web App Manifest
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
   
-### <span style="color:#fbc993"> Webpack
+### <span style="color:#3e70b1"> Webpack
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
   
 

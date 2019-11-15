@@ -38,7 +38,7 @@ When your deployment amounts to a stack of files that can be served anywhere, sc
 
 Loose coupling and separation of controls allow for more targeted development and debugging, and the expanding selection of CMS options for site generators remove the need to maintain a separate stack for content and marketing.
 
-# # <span style="color:#00c7b7"> Technologies we use
+# <span style="color:#00c7b7"> Technologies we use
 
 ### <span style="color:#fbc993"> Auth0
 ### <span style="color:#fbc993"> Azure Functions
@@ -48,22 +48,22 @@ Loose coupling and separation of controls allow for more targeted development an
 ### <span style="color:#fbc993"> Firebase
 ### <span style="color:#fbc993"> Gatsby
 ### <span style="color:#fbc993"> Git
-### Github
-### GitHub API
-### Github Pages
-### Google Analytics
-### Jekyll
-### Netlify
-### Netlify CMS
-### React
-### React-Static
-### Sanity.io
-### Sass
-### Serverless DB
-### Service Workers
+### <span style="color:#fbc993"> Github
+### <span style="color:#fbc993"> GitHub API
+### <span style="color:#fbc993"> Github Pages
+### <span style="color:#fbc993"> Google Analytics
+### <span style="color:#fbc993"> Jekyll
+### <span style="color:#fbc993"> Netlify
+### <span style="color:#fbc993"> Netlify CMS
+### <span style="color:#fbc993"> React
+### <span style="color:#fbc993"> React-Static
+### <span style="color:#fbc993"> Sanity.io
+### <span style="color:#fbc993"> Sass
+### <span style="color:#fbc993"> Serverless DB
+### <span style="color:#fbc993"> Service Workers
 ### Vanilla JS & CSS
-### Web App Manifest
-### Webpack
+### <span style="color:#fbc993"> Web App Manifest
+### <span style="color:#fbc993"> Webpack
 
 
 ----

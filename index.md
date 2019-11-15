@@ -78,7 +78,7 @@ Azure Functions is an event driven, compute-on-demand experience that extends th
 This repository acts as a directory for folks looking for the various resources we have for Azure Functions.
 
 #### Get Started with Azure Functions
-To get started with Azure Functions, you can visit [functions.azure.com] and click on the green Get Started button. If you need a trial Azure subscription, there is also a link on that page.
+To get started with Azure Functions, you can visit (functions.azure.com) and click on the green Get Started button. If you need a trial Azure subscription, there is also a link on that page.
 
 ### <span style="color:#3e70b1"> Bootstrap
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.

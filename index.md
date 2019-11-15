@@ -61,7 +61,7 @@ Loose coupling and separation of controls allow for more targeted development an
 ### <span style="color:#fbc993"> Sass
 ### <span style="color:#fbc993"> Serverless DB
 ### <span style="color:#fbc993"> Service Workers
-### Vanilla JS & CSS
+### <span style="color:#fbc993"> Vanilla JS & CSS
 ### <span style="color:#fbc993"> Web App Manifest
 ### <span style="color:#fbc993"> Webpack
 

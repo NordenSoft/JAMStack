@@ -1,4 +1,4 @@
-# <span style="color:blue"> Welcome to JAMStack Expert Pages
+# <span style="color:#00c7b7"> Welcome to JAMStack Expert Pages
 
 When we talk about “The Stack,” we no longer talk about operating systems, specific web servers, backend programming languages, or databases.
 
@@ -19,7 +19,7 @@ All server-side processes or database actions are abstracted into reusable APIs,
 ## Markup
 Templated markup should be prebuilt at deploy time, usually using a site generator for content sites, or a build tool for web apps.
 
-# <span style="color:blue"> Why the JAMstack?
+# <span style="color:#00c7b7"> Why the JAMstack?
 
 
 ## Better Performance

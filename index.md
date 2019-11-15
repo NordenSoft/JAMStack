@@ -71,7 +71,14 @@ Take a look at just a few of Auth0's use cases:
   - You want to use analytics to track users on your site or application. You plan on using this data to create funnels, measure user retention, and improve your sign-up flow.
   
 ### <span style="color:#3e70b1"> Azure Functions
-As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
+
+#### Azure Functions
+Azure Functions is an event driven, compute-on-demand experience that extends the existing Azure application platform with capabilities to implement code triggered by events occurring in virtually any Azure or 3rd party service as well as on-premises systems. Azure Functions allows developers to take action by connecting to data sources or messaging solutions, thus making it easy to process and react to events. Azure Functions scale based on demand and you pay only for the resources you consume.
+
+This repository acts as a directory for folks looking for the various resources we have for Azure Functions.
+
+#### Get Started with Azure Functions
+To get started with Azure Functions, you can visit [functions.azure.com] and click on the green Get Started button. If you need a trial Azure subscription, there is also a link on that page.
 
 ### <span style="color:#3e70b1"> Bootstrap
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.

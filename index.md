@@ -19,7 +19,7 @@ All server-side processes or database actions are abstracted into reusable APIs,
 ## Markup
 Templated markup should be prebuilt at deploy time, usually using a site generator for content sites, or a build tool for web apps.
 
-# Why the JAMstack?
+# <span style="color:blue"> Why the JAMstack?
 
 
 ## Better Performance

@@ -38,14 +38,14 @@ When your deployment amounts to a stack of files that can be served anywhere, sc
 
 Loose coupling and separation of controls allow for more targeted development and debugging, and the expanding selection of CMS options for site generators remove the need to maintain a separate stack for content and marketing.
 
-<span style="color:#fbc993">### Auth0
-<span style="color:#fbc993">### Azure Functions
-<span style="color:#fbc993">### Bootstrap
-<span style="color:#fbc993">### Contentful
-<span style="color:#fbc993">### Disqus
-<span style="color:#fbc993">### Firebase
-<span style="color:#fbc993">### Gatsby
-### Git
+### <span style="color:#fbc993">Auth0
+### <span style="color:#fbc993">Azure Functions
+### <span style="color:#fbc993">Bootstrap
+### <span style="color:#fbc993">Contentful
+### <span style="color:#fbc993">Disqus
+### <span style="color:#fbc993">Firebase
+### <span style="color:#fbc993">Gatsby
+### <span style="color:#fbc993">Git
 ### Github
 ### GitHub API
 ### Github Pages

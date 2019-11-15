@@ -136,12 +136,12 @@ So, yes, React and GraphQL are crucial for Gatsby, but if you don’t know them,
 4: How do I get started?
 If you’re thinking about getting started, as I have mentioned before, Gatsby has excellent documentation and tutorials, so head over to gatsbyjs.org and follow along:
 
-          1. Click on docs and follow the instructions there.
-          2. Install the global Gatsby CLI.
-          3. Run the Gatsby `new` command with the name of your site. `cd` in to the new directory.
-          4. Run ‘gatsby develop’ and click on the `localhost` link in your console.
+1. Click on docs and follow the instructions there.
+2. Install the global Gatsby CLI.
+3. Run the Gatsby `new` command with the name of your site. `cd` in to the new directory.
+4. Run ‘gatsby develop’ and click on the `localhost` link in your console.
 
-And there we go, our Gatsby site is up and running.  To compile this for production, we would stop the `develop` and run `gatsby build`. And there you can see the `build` folder meant to be uploaded to your hosting provider.
+And there we go, our Gatsby site is up and running.  To compile this for production, we would stop the 'develop' and run 'gatsby build'. And there you can see the `build` folder meant to be uploaded to your hosting provider.
 
 Gatsby also includes the idea of ‘starters’. Starters are something like boilerplate and templates for Gatsby.  If you know your data will be coming from a certain source, or your site will function in a certain way, such as a blog, there is probably a starter that has the data sources preconfigured, and also the styling and component structure will be setup and opinionated.  This makes getting up and running very quick and easy.
 

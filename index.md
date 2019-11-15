@@ -28,7 +28,7 @@ Why wait for pages to build on the fly when you can generate them at deploy time
 
 ## Higher Security
 
-With server-side processes abstracted into microservice APIs, surface areas for attacks are reduced. You can also leverage the domain expertise of specialist third-party services.
+With server-side processes abstracted into microservice APIs, surface areas for attacks are reduced. You can also leverage the domain expertise of specialist third-party services..
 
 ## Cheaper, Easier Scaling
 

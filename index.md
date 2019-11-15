@@ -1,10 +1,10 @@
 ## Welcome to JAMStack Expert Pages
 
-You can use the [editor on GitHub](https://github.com/NordenSoft/JAMStack/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+When we talk about “The Stack,” we no longer talk about operating systems, specific web servers, backend programming languages, or databases.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The JAMstack is not about specific technologies. It’s a new way of building websites and apps that delivers better performance, higher security, lower cost of scaling, and a better developer experience.
 
-# What is the JAMStack?
+## What is the JAMStack?
 
 You may have already seen or worked on a JAMstack site! They do not have to include all attributes of JavaScript, APIs, and Markup. They might be built using by hand, or with Jekyll, Hugo, Nuxt, Next, Gatsby, or another static site generator...
 

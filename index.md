@@ -21,6 +21,7 @@ Templated markup should be prebuilt at deploy time, usually using a site generat
 
 # Why the JAMstack?
 
+
 ## Better Performance
 
 Why wait for pages to build on the fly when you can generate them at deploy time? When it comes to minimizing the time to first byte, nothing beats pre-built files served over a CDN.

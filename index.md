@@ -1,4 +1,4 @@
-# <span style="color:#00c7b7"> Welcome to JAMStack Expert Pages
+# <span style="color:blue"> Welcome to JAMStack Expert Pages
 
 When we talk about “The Stack,” we no longer talk about operating systems, specific web servers, backend programming languages, or databases.
 

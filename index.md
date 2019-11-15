@@ -237,7 +237,7 @@ Netlify is an all-in-one platform for automating modern web projects. Replace yo
 
 To get started with Netlify, learn how to create deploys. Options for creating deploys range from connecting a Git repository for continuous deployment to publishing a site folder with drag and drop. Use the Deploy to Netlify button on our JAMstack templates to create a Git repository linked to a Netlify site that you can experiment with.
 
-### <span style="color:#fbc993"> Netlify CMS
+### <span style="color:#fbc993"> Netlify CMS 
 
 ### <span style="color:#3e70b1"> React
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.

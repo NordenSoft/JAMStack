@@ -38,6 +38,32 @@ When your deployment amounts to a stack of files that can be served anywhere, sc
 
 Loose coupling and separation of controls allow for more targeted development and debugging, and the expanding selection of CMS options for site generators remove the need to maintain a separate stack for content and marketing.
 
+### Auth0
+### Azure Functions
+### Bootstrap
+### Contentful
+### Disqus
+### Firebase
+### Gatsby
+### Git
+### Github
+### GitHub API
+### Github Pages
+### Google Analytics
+### Jekyll
+### Netlify
+### Netlify CMS
+### React
+### React-Static
+### Sanity.io
+### Sass
+### Serverless DB
+### Service Workers
+### Vanilla JS & CSS
+### Web App Manifest
+### Webpack
+
+
 ----
 
 ```markdown

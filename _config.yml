@@ -1,4 +1,6 @@
 theme: jekyll-theme-leap-day
 gem "github-pages", group: :jekyll_plugins
-title: [JAMStack Developer]
-description: [Gatsby, React, Sass, Github, Github Pages, Netlify, WebPack, Netlify CMS, Sanity, Jekyll]
+title: JAMStack Developer
+description: Gatsby, React, Sass, Github, Github Pages, Netlify, WebPack, Netlify CMS, Sanity, Jekyll
+show_downloads: "true"
+google_analytics: [Your Google Analytics tracking ID]

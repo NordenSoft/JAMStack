@@ -355,19 +355,18 @@ Storyblok - Contentful - Sanity - Dato CMS - Prismic - Ghost - Strapi - Cloud CM
 10. https://www.rooftopcms.com
 
 # Resource
-https://travis-ci.com/
+
+- [Travis CI](https://travis-ci.com/)
 
 ### To keep up with a fast-developing JAMstack world check out the following resources:
 
 - [JAMStack.org](https://www.jamstack.org/)
-- JAMstack.wtf
-- WTF is JAMStack?
-- Netlify blog
-- Bejamas blog
-- Gatsby blog
-- SSGs list
-
-Third-party solutions for static sites
+- [JAMstack.wtf](https://jamstack.wtf/)
+- [WTF is JAMStack?](https://cobwwweb.com/wtf-is-jamstack)
+- [Netlify blog](https://www.netlify.com/blog/)
+- [Gatsby blog](https://www.gatsbyjs.org/blog/)
+- [SSGs list](https://staticgen.com/)
+- [Third-party solutions for static sites](https://github.com/agarrharr/awesome-static-website-services/)
 
 # Progressive Web Application (PWA) With JAMstack
 

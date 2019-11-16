@@ -357,16 +357,17 @@ Storyblok - Contentful - Sanity - Dato CMS - Prismic - Ghost - Strapi - Cloud CM
 # Resource
 https://travis-ci.com/
 
-To keep up with a fast-developing JAMstack world check out the following resources:
+### To keep up with a fast-developing JAMstack world check out the following resources:
 
 [JAMStack.org](https://www.jamstack.org/)
 JAMstack.wtf
 WTF is JAMStack?
 Netlify blog
-Bejamas blog 😀
+Bejamas blog
 Gatsby blog
 SSGs list
 Headless CMSs list
+
 Third-party solutions for static sites
 
 # Progressive Web Application (PWA) With JAMstack

@@ -334,23 +334,25 @@ Webpack provides code on demand using the moniker code splitting. The Technical 
 # CMS Platforms
 
 ### List of Git-based CMS Platforms
-Forestry - https://forestry.io
-Crafter CMS - https://craftercms.org
-Netlify CMS - https://www.netlifycms.org
-Publii - https://getpublii.com
-Prose - http://prose.io
+1. Forestry - https://forestry.io
+2. Crafter CMS - https://craftercms.org
+3. Netlify CMS - https://www.netlifycms.org
+4. Publii - https://getpublii.com
+5. Prose - http://prose.io
 
 ### List of API-based CMS Platforms
-Storyblok - Contentful - Sanity - Dato CMS - Prismic - Ghost - Strapi - Cloud CMS - Directus - Rooftop - https://www.storyblok.com/
-https://www.contentful.com
-https://sanity.io
-https://www.datocms.com/
-https://prismic.io
-https://ghost.org
-https://strapi.io
-https://www.cloudcms.com
-https://directus.io
-https://www.rooftopcms.com
+Storyblok - Contentful - Sanity - Dato CMS - Prismic - Ghost - Strapi - Cloud CMS - Directus - Rooftop 
+
+1. https://www.storyblok.com/
+2. https://www.contentful.com
+3. https://sanity.io
+4. https://www.datocms.com/
+5. https://prismic.io
+6. https://ghost.org
+7. https://strapi.io
+8. https://www.cloudcms.com
+9. https://directus.io
+10. https://www.rooftopcms.com
 
 ### Resource
 https://travis-ci.com/

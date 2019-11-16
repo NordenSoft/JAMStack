@@ -1,5 +1,3 @@
-https://travis-ci.com/
-
 # <span style="color:#00c7b7"> Welcome to JAMStack Expert Pages
 
 When we talk about “The Stack,” we no longer talk about operating systems, specific web servers, backend programming languages, or databases.
@@ -331,6 +329,31 @@ Node.js is required for using Webpack.
 
 Webpack provides code on demand using the moniker code splitting. The Technical Committee 39 for ECMAScript is working on standardization of a function that loads additional code: "proposal-dynamic-import".
   
+----
+
+# CMS Platforms
+
+### List of Git-based CMS Platforms
+Forestry - https://forestry.io
+Crafter CMS - https://craftercms.org
+Netlify CMS - https://www.netlifycms.org
+Publii - https://getpublii.com
+Prose - http://prose.io
+
+### List of API-based CMS Platforms
+Storyblok - Contentful - Sanity - Dato CMS - Prismic - Ghost - Strapi - Cloud CMS - Directus - Rooftop - https://www.storyblok.com/
+https://www.contentful.com
+https://sanity.io
+https://www.datocms.com/
+https://prismic.io
+https://ghost.org
+https://strapi.io
+https://www.cloudcms.com
+https://directus.io
+https://www.rooftopcms.com
+
+### Resource
+https://travis-ci.com/
 
 ----
 

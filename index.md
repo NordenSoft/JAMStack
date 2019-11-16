@@ -331,7 +331,7 @@ Webpack provides code on demand using the moniker code splitting. The Technical 
   
 ----
 
-# CMS Platforms
+# Headless CMS Platform
 
 ### List of Git-based CMS Platforms
 1. Forestry - https://forestry.io

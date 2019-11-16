@@ -268,19 +268,47 @@ For example, take a form. A form might consist of many interface elements, like 
 Importantly, each component in a React app abides by strict data management principles. Complex, interactive user interfaces often involve complex data and application state. The surface area of React is limited and aimed at giving us the tools to be able to anticipate how our application will look with a given set of circumstances. 
   
 ### <span style="color:#3e70b1"> React-Static
-As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
+React Static is a framework designed to help everyone painlessly build next generation, high-performance websites for the web.
+
+With react-static you can deliver an amazing experience for your users and developers alike, without compromising React in any way. It’s insanely fast, touts fantastic SEO capabilities, and is probably the most React-friendly static-site library on the internet.
   
 ### <span style="color:#3e70b1"> Sanity.io
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
   
 ### <span style="color:#3e70b1"> Sass
-As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
+CSS’i bir programlama diline benzer yapıyla geliştirmemizi sağlayan, sürekli ihtiyaç duyduğumuz ve CSS’te bulunmayan birçok özelliği kullanarak, daha pratik ve okunaklı kod yazmamıza olanak verir. Binlerce satırlık CSS kodlarını daha hızlı yazmamızı, daha düzenli bir stil dosyası oluşturmamıza olanak tanır.
   
 ### <span style="color:#3e70b1"> Serverless DB
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
   
 ### <span style="color:#3e70b1"> Service Workers
-As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
+A Service Worker is a script that executes in the background, in a separate thread from the browser UI. Service worker cache makes it possible for a web site to function offline. They enable deep platform integration, like rich caching, push notifications and background sync.
+
+Service workers are the core technology used in Progressive Web Applications.
+
+Service workers are designed to be an extensible platform, additional features are currently being planned.
+
+They can't access the DOM, but can intercept all network request. This allows developers the opportunity to control how requests are handled, providing a rich way to make websites work offline.
+
+Service workers are have been called a game changer for the web. I don't think that is a simple exaggeration, because they enable many much needed capabilities and make the core architecture I used for years native.
+
+Service Workers sound amazing!
+
+This is the key technology or modern web API behind Progressive Web Applications. Without a service worker a website is just a website, add a service worker and you now have an application.
+
+There are some key features about service workers you need to understand:
+
+-  Service Worker is a JavaScript File
+-  They execute on a separate thread from the UI
+-  They cannot access the DOM directly
+-  There is a life cycle or series of events a service worker flows through to become active, explained later
+-  They are only live while being used, so no battery strain
+-  They are isolated to the origin or domain they are registered with
+-  Service Workers require HTTPS
+-  Can send messages to and from the UI
+-  Do not require an open web page to function
+-  Are supported by all major browsers, including iOS Safari
+-  Are similar to Web Workers, but better in many ways
   
 ### <span style="color:#3e70b1"> Vanilla JS & CSS
 As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.

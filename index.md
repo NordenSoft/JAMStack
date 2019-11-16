@@ -321,7 +321,13 @@ Using this metadata, user agents can provide developers with means to create use
 This specification also defines the manifest link type as a declarative means to associate a document with a manifest.
   
 ### <span style="color:#3e70b1"> Webpack
-As JAMstack projects grow really large, new changes might require re-deploying hundreds of files. Uploading these one at a time can cause inconsistent state while the process completes. You can avoid this with a system that lets you do “atomic deploys,” where no changes go live until all changed files have been uploaded.
+Webpack is an open-source JavaScript module bundler. It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding loaders are included. Webpack takes modules with dependencies and generates static assets representing those modules.
+
+Webpack takes the dependencies and generates a dependency graph allowing web developers to use a modular approach for their web application development purposes. It can be used from the command line, or can be configured using a config file which is named webpack.config.js. This file is used to define rules, plugins, etc., for a project. (Webpack is highly extensible via rules which allow developers to write custom tasks that they want to perform when bundling files together.)
+
+Node.js is required for using Webpack.
+
+Webpack provides code on demand using the moniker code splitting. The Technical Committee 39 for ECMAScript is working on standardization of a function that loads additional code: "proposal-dynamic-import".
   
 
 ----

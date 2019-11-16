@@ -359,7 +359,7 @@ https://travis-ci.com/
 
 To keep up with a fast-developing JAMstack world check out the following resources:
 
-[JAMStack.org](JAMstack.org)
+[JAMStack.org](https://www.jamstack.org/)
 JAMstack.wtf
 WTF is JAMStack?
 Netlify blog

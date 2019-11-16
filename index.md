@@ -354,10 +354,33 @@ Storyblok - Contentful - Sanity - Dato CMS - Prismic - Ghost - Strapi - Cloud CM
 9. https://directus.io
 10. https://www.rooftopcms.com
 
-### Resource
+# Resource
 https://travis-ci.com/
 
-----
+To keep up with a fast-developing JAMstack world check out the following resources:
+
+[Link](JAMstack.org)JAMstack.org
+JAMstack.wtf
+WTF is JAMStack?
+Netlify blog
+Bejamas blog 😀
+Gatsby blog
+SSGs list
+Headless CMSs list
+Third-party solutions for static sites
+
+# Progressive Web Application (PWA) With JAMstack
+
+### What are Progressive Web Apps?
+Simply put PWA’s are somewhere in between a website and an app. Instead of pushing users to download your app, PWA’s allow you to bring that app-like experience to the website through the user’s web browser.
+
+### Why should websites use PWAs?
+From a technical point with PWA being based on HTML downloaded from a typical WWW server, there is no hustle of adjusting it to a different phone and/or OS versions.
+
+Obviously, PWA’s provide mobile-app experience, which means you can play with users engagement much more by giving them more functionality. Not only that! You can also browse the content even when you are offline.
+
+With PWA’s you are able to push notifications which can greatly increase engagement of your audience. Finally, because it caches data, everything is incredibly fast. No worries about users leaving when waiting for content to load since there is no time to load.
+
 
 ```markdown
 Syntax highlighted code block
